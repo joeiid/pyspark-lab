@@ -31,3 +31,6 @@ Using the `datasets/Heart.csv` dataset (credit: ISLR), you will build a binary c
 
 ## Publish your notebook
 You're going to publish your notebook rather than submitting it in this repo. In DataBricks, select File > Publish and submit your URL to Google Classroom
+
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1379035776332576/1755578770825698/6489547681152576/latest.html
